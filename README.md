@@ -4,11 +4,9 @@ This is a CUDA + OpenGL fluid/particle simulation experiment, created as a proje
 
 ## Showcase 
 
-
-
-https://github.com/user-attachments/assets/757bdd40-9672-434b-b729-2c8efd470780
-
-
+<p align="center">
+  https://github.com/user-attachments/assets/757bdd40-9672-434b-b729-2c8efd470780
+</p>
 
 ## Dependencies
 
