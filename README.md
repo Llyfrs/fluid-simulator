@@ -5,7 +5,7 @@ This is a CUDA + OpenGL fluid/particle simulation experiment, created as a proje
 ## Showcase 
 
 <p align="center">
-  <video controls width="800" src="https://github.com/user-attachments/assets/1b4610ce-a7f4-44c1-857a-1ca835f6cadb"></video>
+  <video controls width="800" src="https://github.com/user-attachments/assets/757bdd40-9672-434b-b729-2c8efd470780"></video>
 </p>
 
 ## Dependencies
